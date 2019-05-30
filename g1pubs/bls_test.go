@@ -1,4 +1,4 @@
-package g2pubs_test
+package g1pubs_test
 
 import (
 	"errors"
