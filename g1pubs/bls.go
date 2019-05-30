@@ -1,4 +1,4 @@
-package g2pubs
+package g1pubs
 
 import (
 	"bytes"
